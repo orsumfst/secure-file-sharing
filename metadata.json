@@ -1,0 +1,5 @@
+{
+  "name": "SecureShare 3.0",
+  "description": "A secure file sharing platform with client-side encryption using Web Crypto API and a Node.js/Express backend.",
+  "requestFramePermissions": []
+}
